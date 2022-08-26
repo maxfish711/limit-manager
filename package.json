@@ -1,0 +1,18 @@
+{
+  "name": "limitsmanager",
+  "version": "1.0.0",
+  "description": "processes json limits and sends messages to slack api",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "limits",
+    "slack"
+  ],
+  "author": "max fish",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
